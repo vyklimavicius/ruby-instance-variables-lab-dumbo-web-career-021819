@@ -1,7 +1,7 @@
 class Dog 
   def name=(dog_name) # takes an argument
   this_dogs_name = dog_name # arg ass to var 
-end 
+  end 
 
   def name # method returns the var 
     this_dogs_name
